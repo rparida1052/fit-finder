@@ -1,0 +1,13 @@
+.button-icon{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 2px;
+    font-size: 1.3rem;
+}
+.button-loader {
+    display: flex;
+    justify-content: center;
+    width: 100px;
+    height: 100%;
+}
